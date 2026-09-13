@@ -74,3 +74,9 @@ Desktop.ini
 *.swp
 *.swo
 *~
+
+# Broker statement / export formats
+*.pdf
+*.ofx
+*.qfx
+
